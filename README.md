@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">Motivated Computer Programming student completing Ontario College Diploma degree.</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/e3/ac/3c/e3ac3c0cafeef4ca279bd3e667c106b5.jpg">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ca/f7/95/caf7956e99ae518a2c70ec8d7d110089.gif">
 
 - 🌱 I’m currently learning **Java**
 
